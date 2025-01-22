@@ -29,7 +29,7 @@ This tutorial outlines the step-by-step process for installing and configuring P
 <img src="https://i.gyazo.com/f21bb85ab7219dcd16c2e0cf8a4b0690.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I began by creating a virtual machine inside of azure.
+I started by creating a new virtual machine (VM) within Microsoft Azure. The VM configuration was selected based on my desired specifications, such as the region and operating system. Once the VM was successfully provisioned, I ensured it was ready for remote access.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ I began by creating a virtual machine inside of azure.
 <img src="https://i.gyazo.com/6b8b102cc627ee5e681de36da45d035a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, I signed up and installed Proton VPN.
+After the virtual machine was set up, I proceeded to sign up for a Proton VPN account. Following the account creation, I downloaded and installed the Proton VPN client on the VM. The installation process was straightforward, and I ensured the client was properly configured before proceeding.
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Next, I signed up and installed Proton VPN.
 <img src="https://i.gyazo.com/5ec1597a49d3c1803f349bab2d67b114.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, I made note of the virtual machine's IP address, ISP, and location before I connected using the website whatismyipaddress.com. Then I connected to the VPN to a Japan server then went back to the website and took note of the IP address, ISP, and location to test the connection.
+To establish a baseline, I visited whatismyipaddress.com on the VM to record its original IP address, ISP, and location. Afterward, I connected to a Proton VPN server located in Japan. Once the VPN connection was established, I revisited the same website and observed the changes: the IP address, ISP, and location had all shifted to reflect the Japanese server, confirming that the VPN was working properly.
 </p>
 <br />
 
@@ -65,6 +65,6 @@ Next, I made note of the virtual machine's IP address, ISP, and location before 
 <img src="https://i.gyazo.com/90f7f7e3939252de6d708b2e843bc0b8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lastly, I browsed to google and searched disney while being connected and disconnected to the VPN. As you can see, while being connected to the VPN, the language was different.
+Finally, I conducted a practical test by opening Bing on the virtual machine. I searched for the term “Disney” both while connected to the VPN and again after disconnecting from the VPN. I observed that, while connected to the Japan server, the search results were tailored to the region (with Japanese language content and region-specific results). When disconnected, the search results reverted to the standard English version, indicating that the VPN connection influenced the language and regional search results.
 </p>
 <br />
