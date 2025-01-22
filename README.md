@@ -3,11 +3,11 @@
 </p>
 
 <h1>Proton VPN - Installation and Configuration</h1>
-This tutorial covers the prerequisites and installation process for setting up and using a VPN.<br />
+This tutorial outlines the step-by-step process for installing and configuring Proton VPN to ensure secure and private internet access.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- A VPN (Proton VPN)
+- VPN (Proton VPN)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
