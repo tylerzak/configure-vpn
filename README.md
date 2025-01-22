@@ -7,7 +7,7 @@ This tutorial outlines the step-by-step process for installing and configuring P
 
 <h2>Environments and Technologies Used</h2>
 
-- VPN (Proton VPN)
+- Proton VPN
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
