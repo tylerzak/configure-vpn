@@ -1,6 +1,6 @@
-# configure-vpn
+# Proton VPN - Installation and Configuration
 <p align="center">
-<img src="https://i.imgur.com/MntON5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/37b70eefcfa22f88a8b8547177731937.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>VPN - Prerequisites and Installation</h1>
