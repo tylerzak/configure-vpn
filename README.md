@@ -37,6 +37,9 @@ I started by creating a new virtual machine (VM) within Microsoft Azure. The VM 
 <img src="https://i.gyazo.com/f563212d7120ee0ed2f48402dc10bff8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<img src="https://i.gyazo.com/1f21aed85f3704d3255a63da30ff97cf.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <img src="https://i.gyazo.com/6b8b102cc627ee5e681de36da45d035a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
