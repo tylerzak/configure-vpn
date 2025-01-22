@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.gyazo.com/37b70eefcfa22f88a8b8547177731937.jpg" height="80%" width="80%" alt="Configure VPN Steps"/>
+<img src="https://i.gyazo.com/37b70eefcfa22f88a8b8547177731937.jpg" height="80%" width="80%" alt="Proton VPN Logo"/>
 </p>
 
 <h1>Proton VPN - Installation and Configuration</h1>
