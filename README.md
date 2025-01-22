@@ -18,11 +18,9 @@ This tutorial outlines the step-by-step process for installing and configuring P
 
 <h2>List of Procedures</h2>
 
-- 1
-- 2
-- 3
-- 4
-- 5
+- Create Virtual Machine in Azure
+- Sign up and Install Proton VPN
+- Test the VPN connection
 
 <h2>Installation Steps</h2>
 
