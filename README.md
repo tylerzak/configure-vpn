@@ -7,7 +7,7 @@ This tutorial outlines the step-by-step process for installing and configuring P
 
 <h2>Environments and Technologies Used</h2>
 
-- Proton VPN
+- Proton VPN (Virtual Private Network)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
@@ -27,44 +27,25 @@ This tutorial outlines the step-by-step process for installing and configuring P
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/WKnl1Gd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a Resource Group in Azure, then deploy a Windows 10 Virtual Machine within it. Once the VM is set up, use Remote Desktop Protocol (RDP) to log into the VM.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/qUT7bSY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Once inside the VM, open a web browser and navigate to https://whatismyipaddress.com/. View the IP information displayed and record it in Notepad or on a piece of paper for later reference.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/fUjDc38.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/o4XhJYA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On your personal computer, sign up for the free version of Proton VPN at https://account.protonvpn.com/signup?plan=free&language=en.
-Inside the VM, download and install the Proton VPN client. Log in to the client using your Proton VPN credentials at 
-https://account.protonvpn.com/login 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/dLrsRDw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sign in to the Proton VPN client using the credentials you created during account setup. Once logged in, click "Quick Connect" to automatically connect to a VPN server. Connecting to the VPN will mask your real IP address and encrypt your internet traffic, enhancing privacy and security.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/I1ozIdQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Revisit https://whatismyipaddress.com/ and observe the changes in the IP information. Note how the IP now reflects the VPN server you connected to, demonstrating the VPN's effect.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
