@@ -48,7 +48,7 @@ Next, I signed up and installed Proton VPN.
 <img src="https://i.gyazo.com/939f6b5ea4d7b738479c305abc2f3f86.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.gyazo.com/4a7de931b25cc00676a7db26653a642b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/3ab93880b73d4b6eb59633425e15ff51.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.gyazo.com/5ec1597a49d3c1803f349bab2d67b114.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
