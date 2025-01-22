@@ -4,7 +4,7 @@
 </p>
 
 <h1>VPN - Prerequisites and Installation</h1>
-This tutorial covers the prerequisites and installation process for setting up and using a VPN..<br />
+This tutorial covers the prerequisites and installation process for setting up and using a VPN.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,6 +16,14 @@ This tutorial covers the prerequisites and installation process for setting up a
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+
+<h2>List of Procedures</h2>
+
+- 1
+- 2
+- 3
+- 4
+- 5
 
 <h2>Installation Steps</h2>
 
