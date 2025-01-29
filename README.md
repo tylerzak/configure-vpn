@@ -9,7 +9,7 @@ This tutorial outlines the step-by-step process for installing Proton VPN to ens
 
 - Proton VPN (Virtual Private Network)
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection
 
 <h2>Operating Systems Used </h2>
 
