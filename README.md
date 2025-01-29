@@ -13,7 +13,7 @@ This tutorial outlines the step-by-step process for installing Proton VPN to ens
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Procedures</h2>
 
