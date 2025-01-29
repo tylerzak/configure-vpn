@@ -3,7 +3,7 @@
 </p>
 
 <h1>Proton VPN - Installation</h1>
-This tutorial outlines the step-by-step process for installing and configuring Proton VPN to ensure secure and private internet access.<br />
+This tutorial outlines the step-by-step process for installing Proton VPN to ensure secure and private internet access.<br />
 
 <h2>Environments and Technologies Used</h2>
 
