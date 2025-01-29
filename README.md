@@ -17,7 +17,7 @@ This tutorial outlines the step-by-step process for installing Proton VPN to ens
 
 <h2>List of Procedures</h2>
 
-- Create a Virtual Machine in Azure
+- Create a Virtual Machine in Azure and Log In using Remote Desktop Connection
 - Sign Up and Install Proton VPN
 - Test the VPN Connection
 - Observe the Differences Between Connections
