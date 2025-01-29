@@ -45,7 +45,7 @@ I began by creating a new virtual machine (VM) within Microsoft Azure, carefully
 <img src="https://i.gyazo.com/6b8b102cc627ee5e681de36da45d035a.png" height="80%" width="80%" alt="Configure VPN Steps"/>
 </p>
 <p>
-After the virtual machine was set up, I proceeded to sign up for a Proton VPN account. Following the account creation, I downloaded and installed the Proton VPN client on the VM. The installation process was straightforward, and I ensured the client was properly configured before proceeding.
+After setting up and logging onto the virtual machine (VM), I proceeded to sign up for a Proton VPN account. Following the account creation, I downloaded and installed the Proton VPN client on the VM. The installation process was straightforward, and I ensured the client was properly configured before proceeding.
 </p>
 <br />
 
